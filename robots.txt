@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ksfinancials.in/sitemap.xml
